@@ -1,1 +1,1 @@
-# Algoritmika-Project01
+# alg_task
